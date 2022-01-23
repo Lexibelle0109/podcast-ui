@@ -1,0 +1,15 @@
+.audio-app {
+    margin-top: 20%;
+}
+
+.audio-upload {
+    display: none;
+}
+
+.upload-button {
+    margin: 0 auto;
+}
+
+.upload-button-container {
+    width: 100%;
+}
